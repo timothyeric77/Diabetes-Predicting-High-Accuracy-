@@ -7,3 +7,6 @@ The best result was found with LogisticRegression with an accuracy of 76.5625%.
 
 - > To run this project you will need some software, like Anaconda (jupyter notebook).
 
+# DataSet :
+https://www.kaggle.com/uciml/pima-indians-diabetes-database
+
